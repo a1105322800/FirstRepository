@@ -6,7 +6,8 @@
 
 int main()
 {
-	
+	//	ohu?
+	//	o?hhahahaha
     return 0;
 }
 
