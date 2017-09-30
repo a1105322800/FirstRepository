@@ -8,6 +8,7 @@ int main()
 {
 	//	ohu?
 	//	o?hhahahaha
+	int a = 3;
     return 0;
 }
 
